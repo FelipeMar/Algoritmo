@@ -1,0 +1,3 @@
+Karachi                                 10000000
+lagos                                   11000000
+xangai                                  12800000

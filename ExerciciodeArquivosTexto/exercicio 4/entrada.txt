@@ -1,0 +1,4 @@
+ana maria de souza                     10 5 6
+ana maria de souza                     5 6 3
+ana maria de souza                     4 5 6
+ana maria de souza                     5 6 10
